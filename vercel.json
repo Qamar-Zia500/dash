@@ -1,5 +1,7 @@
 {
+
     "version": 2,
+    "devCommand": "npm install dash, dash-bootstrap-components, plotly, pandas, numpy",
     "builds": [
         {
             "src": "app/index.py",
